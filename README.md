@@ -19,3 +19,6 @@ The device delivers a personalized treatment plan, using gentle, non-invasive st
 Track your progress and adjust your treatment plan as needed through our mobile application.
 # Get Involved
 We're excited to collaborate with individuals, healthcare professionals, and organizations who share our passion for improving migraine care. Whether you're interested in learning more about our devices, partnering with us, or sharing your own migraine story, we'd love to hear from you.
+# Join the Movement
+Together, let's build a future where migraine sufferers can live life to the fullest. Join our community today and be part of the revolution in migraine care.
+Thank you for visiting BuildGraine!
